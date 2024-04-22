@@ -1,5 +1,8 @@
 # Laravel Basecamp API
 
+> [!WARNING]
+> This repo is now readonly and no longer maintained.
+
 An API wrapper for Basecamp 3.
 
 ## Prerequisites
